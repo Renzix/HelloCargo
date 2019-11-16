@@ -2,3 +2,8 @@
 name = "HelloCargo"
 version = "0.0.1"
 authors = [ "Renzix" ]
+
+[[bin]]
+name = "HelloCargo"
+path = "src/main.rs"
+doc = false

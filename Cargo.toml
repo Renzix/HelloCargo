@@ -7,3 +7,6 @@ authors = [ "Renzix" ]
 name = "HelloCargo"
 path = "src/main.rs"
 doc = false
+
+[dependancies]
+glob = "0.3.0"
